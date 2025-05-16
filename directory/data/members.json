@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "name": "cyusa Technology africa",
+      "address": "123 Ave, Citytown",
+      "phone": "+250781397966",
+      "website": "https://www.cyuatechnology.com",
+      "image": "techsolutions.png",
+      "membership": "Gold"
+    },
+    {
+      "name": "Clean Green Co.",
+      "address": "456 Eco Rd, Citytown",
+      "phone": "555-5678",
+      "website": "https://cleangreen.com",
+      "image": "cleangreen.png",
+      "membership": "Silver"
+    },
+    {
+      "name": "Creative Works",
+      "address": "789 Art St, Citytown",
+      "phone": "555-9876",
+      "website": "https://creativeworks.com",
+      "image": "creativeworks.png",
+      "membership": "Gold"
+    },
+    {
+      "name": "Bakers Delight",
+      "address": "321 Bread Ln, Citytown",
+      "phone": "555-4321",
+      "website": "https://bakersdelight.com",
+      "image": "bakersdelight.png",
+      "membership": "Member"
+    },
+    {
+      "name": "Speedy Print",
+      "address": "222 Fast Blvd, Citytown",
+      "phone": "555-2468",
+      "website": "https://speedyprint.com",
+      "image": "speedyprint.png",
+      "membership": "Silver"
+    },
+    {
+      "name": "Bright Learning Center",
+      "address": "654 Learn Way, Citytown",
+      "phone": "555-1122",
+      "website": "https://brightlearning.com",
+      "image": "brightlearning.png",
+      "membership": "Member"
+    },
+    {
+      "name": "Healthy Life Gym",
+      "address": "987 Fit Rd, Citytown",
+      "phone": "555-3344",
+      "website": "https://healthylife.com",
+      "image": "healthylife.png",
+      "membership": "Gold"
+    }
+  ]
+}
